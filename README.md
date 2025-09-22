@@ -1,3 +1,6 @@
+> [!WARNING]
+> This extension is in very active development, and will currently not work properly. Please wait until this notice is gone before cloning it into your extensions folder.
+
 __Themes to add:__  
 * Gruvbox [MIT] - [link1](https://github.com/morhetz/gruvbox-contrib/tree/master/xfce4-terminal), [link2](https://github.com/morhetz/gruvbox/blob/master/colors/gruvbox.vim)
 * Nord [MIT] - [link1](https://www.nordtheme.com/docs/colors-and-palettes), [link2](https://github.com/nordtheme/nord)
