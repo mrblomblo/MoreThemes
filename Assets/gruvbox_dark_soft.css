@@ -12,18 +12,18 @@
     --text-soft: color-mix(in srgb, var(--text) 80%, var(--background) 20%);
     --text-strong: #32302f;
 
-    --button-text: #ebdbb2;
+    --button-text: #f9f5d7;
     --button-foreground-hover: #32302f;
-    --button-foreground-disabled: #928374;
-    --button-background: #928374;
+    --button-foreground-disabled: #665c54;
+    --button-background: #665c54;
     --button-background-disabled: #282828;
     --button-primary-text-color: #32302f;
-    --button-border: #928374;
+    --button-border: #665c54;
     --basic-button-bg-color-disabled: rgba(204, 36, 29, 0.5);
 
-    --danger-button-border: #928374;
+    --danger-button-border: #665c54;
     --danger-button-foreground-hover: #ebdbb2;
-    --danger-button-foreground: #928374;
+    --danger-button-foreground: #665c54;
     --danger-button-background-hover: color-mix(in srgb, #cc241d 70%, black);
     --danger-button-background: #cc241d;
 
@@ -57,12 +57,12 @@
 
     --range-track-background: #282828;
     --range-track-color: #32302f;
-    --range-thumb-color: #928374;
+    --range-thumb-color: #665c54;
     --slider-toggle-background: #ebdbb2;
-    --slider-toggle-thumb-color: #928374;
+    --slider-toggle-thumb-color: #665c54;
     --toggle-background: #a89984;
-    --toggle-thumb-active: color-mix(in srgb, var(--emphasis) 25%, #928374);
-    --toggle-thumb-color: #928374;
+    --toggle-thumb-active: color-mix(in srgb, var(--emphasis) 25%, #665c54);
+    --toggle-thumb-color: #665c54;
 
     --model-img-border-color-hover: #ebdbb2;
     --model-block-menu-button-border-color-hover: #32302f;
@@ -70,8 +70,8 @@
 
     --popup-front: #ebdbb2;
     --notice-pop: #b8bb26;
-    --toast-header: #282828;
-    --toast-body: #928374;
+    --toast-header: #3c3836;
+    --toast-body: #504945;
 
     --batch-0: rgba(235, 219, 178, 0.3);
     --batch-1: rgba(235, 219, 178, 0.3);
