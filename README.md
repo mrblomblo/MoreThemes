@@ -3,7 +3,7 @@
 > This extension is in very active development, and will currently not work properly due to many empty theme files. Please wait until this notice is gone before cloning it into your extensions folder.
 > The themes listed below (and especially those found in the Assets folder) are just what I have planned. I cannot guarantee that they will be added.
 
-This extension aims to add a variety of high-quality themes to SwarmUI. Currently, it adds a total of `7` themes, with `4` dark-mode themes and `3` light-mode themes.
+This extension aims to add a variety of high-quality themes to SwarmUI. Currently, it adds a total of `9` themes, with `5` dark-mode themes and `4` light-mode themes.
 
 Are you the creator of a color palette that I have ported to this extension, and you want me to remove it? Create an issue with the same GitHub account you used to publish said color palette to GitHub. I am usually pretty quick at reading issues, so it will likely not take long for it to be removed.
 
@@ -52,10 +52,23 @@ MIT License - Created by [altercation](https://github.com/altercation) | Made as
 
 </details>
 
+## Nord | Light & Dark
+MIT License - Created by [Sven Greb](https://github.com/svengreb)
+
+<details>
+<summary>View screenshots</summary>
+
+**Nord Polar Night**
+<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/f55de2f6-2106-42e0-beaa-9650e3e262d1" />
+
+**Nord Snow Storm**
+<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/5bedd1d6-1700-4031-9a90-953f452688cd" />
+
+</details>
+
 </details>
 
 ## Themes to Add  
-* Nord [MIT] - [link1](https://www.nordtheme.com/docs/colors-and-palettes), [link2](https://github.com/nordtheme/nord)
 * Rosé Pine [MIT] - [link1](https://rosepinetheme.com/palette/ingredients/), [link2](https://github.com/rose-pine/rose-pine-theme)
 
 __Contenders:__
