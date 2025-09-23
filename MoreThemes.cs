@@ -10,7 +10,18 @@ public class MoreThemes : Extension
 {
     public override void OnPreInit()
     {
-        OtherAssets.Add("Assets/test.css");
+        OtherAssets.Add("Assets/nord_polar_night.css");
+        OtherAssets.Add("Assets/nord_snow_storm.css");
+        OtherAssets.Add("Assets/rose_pine_moon.css");
+        OtherAssets.Add("Assets/rose_pine.css");
+        OtherAssets.Add("Assets/rose_pine_dawn.css");
+        OtherAssets.Add("Assets/gruvbox_dark_hard.css");
+        OtherAssets.Add("Assets/gruvbox_dark.css");
+        OtherAssets.Add("Assets/gruvbox_dark_soft.css");
+        OtherAssets.Add("Assets/gruvbox_light_hard.css");
+        OtherAssets.Add("Assets/gruvbox_light.css");
+        OtherAssets.Add("Assets/gruvbox_light_soft.css");
+        OtherAssets.Add("Assets/solarized_dark.css");
     }
 
     public override void OnInit()
