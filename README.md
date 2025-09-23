@@ -11,3 +11,4 @@ __Themes to add:__
 __Contenders:__
 * Rainglow (Gloom Contrast, Kiwi, Piggy, and Earthsong) [MIT] - [link1](https://github.com/rainglow/vscode)
 * Sonokai [MIT] - [link1](https://github.com/sainnhe/sonokai)
+* Tokyo Night [MIT] - [link1](https://github.com/tokyo-night/tokyo-night-vscode-theme)
