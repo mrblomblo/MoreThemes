@@ -12,6 +12,9 @@ The themes in this extension likely do not fully faithfully follow the original 
 
 I have likely never used (or in some cases even seen) a theme before deciding to add it to this extension, so if you are more familiar with a theme and want to help improve it, you are very welcome to do so. Just make sure to read the [contribution guidelines](https://github.com/mrblomblo/MoreThemes/blob/master/docs/CONTRIBUTING.md)!
 
+> [!NOTE]
+> The screenshots may not always show the latest version of the themes, but they'll give you a good idea of how the theme looks!
+
 <details>
 <summary>Expand to view list of all themes</summary>
 
@@ -82,6 +85,8 @@ MIT License - Created by [Rosé Pine](https://github.com/rose-pine) | Soho vibes
 <img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/84588e17-9250-43db-928f-bd9e250530be" />
 
 </details>
+
+---
 
 </details>
 
