@@ -5,6 +5,8 @@
 
 This extension aims to add a variety of high-quality themes to SwarmUI. Currently, it adds a total of `7` themes, with `4` dark-mode themes and `3` light-mode themes.
 
+Are you the creator of a color palette that I have ported to this extension, and you want me to remove it? Create an issue with the same GitHub account you used to publish said color palette to GitHub. I am usually pretty quick at reading issues, so it will likely not take long for it to be removed.
+
 # Themes
 The themes in this extension likely do not fully faithfully follow the original intended way for the colors to be used. Additionally, the dark themes are likely going to be of higher quality.
 
