@@ -6,7 +6,7 @@ So, you're not satisfied with the existing themes, huh? Well no problem, I will 
 
 ## Creating a New Theme
 > [!NOTE]
-> Just to prefix; I am not good with licenses and that kind of stuff, so try to stick with themes that have the MIT license or a GNU license. When creating a PR, you are expected to provide proof of which license the color palette has (such as a link to the official Git repo).
+> Just to prefix; I am not good with licenses and that kind of stuff, but try to stick to color palettes/themes with the MIT license. When creating a PR, you are expected to provide proof of which license the color palette has (such as a link to the official Git repo).
 
 When creating a new theme, do the following:
 1. Add a new `Program.Web.RegisterTheme` line to `MoreThemes.cs`.  
