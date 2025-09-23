@@ -20,4 +20,4 @@ __Contenders:__
 1. Turn off SwarmUI (Navigate to the Server tab and press "Shutdown Server")
 2. Open the terminal in the Extensions folder `SwarmUI/src/Extensions/`
 3. Copy and paste the following into the terminal and press enter: `git clone https://github.com/mrblomblo/MoreThemes.git`
-4. Run the dev script for your OS. Once it has launched, you can shut it down and launch with the regular launch script.
+4. Run the dev launch script for your OS. Once it has launched, you can shut it down and run SwarmUI with the regular launch script.
