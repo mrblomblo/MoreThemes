@@ -1,8 +1,4 @@
 # MoreThemes
-> [!WARNING]
-> This extension is in very active development, and will currently not work properly due to many empty theme files. Please wait until this notice is gone before cloning it into your extensions folder.
-> The themes listed below (and especially those found in the Assets folder) are just what I have planned. I cannot guarantee that they will be added.
-
 This extension aims to add a variety of high-quality themes to SwarmUI. Currently, it adds a total of `12` themes, with `7` dark-mode themes and `5` light-mode themes.
 
 Are you the creator of a color palette that I have ported to this extension, and you want me to remove it? Create an issue with the same GitHub account you used to publish said color palette to GitHub. I am usually pretty quick at reading issues, so it will likely not take long for it to be removed.
@@ -70,7 +66,7 @@ MIT License - Created by [Sven Greb](https://github.com/svengreb)
 </details>
 
 ## Rosé Pine | Light & Dark
-MIT License - Created by [Rosé Pine](https://github.com/rose-pine) | Soho vibes for SwarmUI
+MIT License - Created by [mvllow](https://github.com/mvllow) | Soho vibes for SwarmUI
 
 <details>
 <summary>View screenshots</summary>
@@ -91,14 +87,40 @@ MIT License - Created by [Rosé Pine](https://github.com/rose-pine) | Soho vibes
 </details>
 
 ## Themes to Add When I Have Time
-* Rainglow (Gloom Contrast, Kiwi, Piggy, and Earthsong) [MIT] - [link1](https://github.com/rainglow/vscode)
-* Sonokai [MIT] - [link1](https://github.com/sainnhe/sonokai)
-* Tokyo Night [MIT] - [link1](https://github.com/tokyo-night/tokyo-night-vscode-theme)
+* [Rainglow](https://github.com/rainglow/vscode) (Gloom Contrast, Kiwi, Piggy, and Earthsong) [MIT]
+* [Sonokai](https://github.com/sainnhe/sonokai) [MIT]
+* [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-theme) [MIT]
 
 # Installation
 
-### Manual Install
-1. Turn off SwarmUI (Navigate to the Server tab and press "Shutdown Server")
+## Install in SwarmUI *(Recommended)*
+1. Navigate to the Server tab and go to the Extensions Page
+2. Find "MoreThemes" in the list under "Available Extensions", then press the Install button
+3. Restart SwarmUI
+
+## Manual Install
+1. Shutdown SwarmUI (Navigate to the Server tab and press "Shutdown Server")
 2. Open the terminal in the Extensions folder `SwarmUI/src/Extensions/`
 3. Copy and paste the following into the terminal and press enter: `git clone https://github.com/mrblomblo/MoreThemes.git`
-4. Run the dev launch script for your OS. Once it has launched, you can shut it down and run SwarmUI with the regular launch script.
+4. Run the dev launch script for your OS. Once it has launched, you can shut it down and run SwarmUI with the regular launch script
+
+# License
+This extension is licensed under the MIT license. You can view the license in [LICENSE.txt](https://github.com/mrblomblo/MoreThemes/blob/master/docs/LICENSE.txt)
+
+## Themes' Licenses
+
+### gruvbox
+Copyright (c) Pavel Pertsev  
+Licensed under the MIT License - see [LICENSE](https://github.com/morhetz/gruvbox?tab=readme-ov-file#license) file for details
+
+### Solarized
+Copyright (c) 2011 Ethan Schoonover  
+Licensed under the MIT License - see [LICENSE](https://github.com/altercation/solarized/blob/master/LICENSE) file for details
+
+### Nord
+Copyright (c) 2016-present Sven Greb <development@svengreb.de> ([https://www.svengreb.de](https://www.svengreb.de))  
+Licensed under the MIT License - see [LICENSE](https://github.com/nordtheme/nord/blob/develop/license) file for details
+
+### Rosé Pine
+Copyright (c) mvllow  
+Licensed under the MIT License - see [LICENSE](https://github.com/rose-pine/rose-pine-palette/blob/main/license) file for details
