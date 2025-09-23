@@ -1,0 +1,30 @@
+:root {
+    /* Made to be the dark counterpart to the Solarized Light theme in core, so it follows that theme's template instead of one of the ones from CONTRIBUTING.md */
+    --background-soft: #073642;
+    --background-gray: #002b36;
+    --background-gray-danger: #b58900;
+    --shadow: #073642;
+    --light-border: #586e75;
+    --popup-front: hsl(0, 0%, 95%);
+    --button-foreground-disabled: #586e75;
+    --background: #002b36;
+    --text: #93a1a1;
+    --text-strong: #fdf6e3;
+    --text-soft: #839496;
+    --emphasis: #c76bbb;
+    --emphasis-soft: #c76bbb;
+    --button-text: #eee8d5;
+    --background-panel: #073642;
+    --background-panel-subtle: rgba(255,255,255,0.05);
+    --emphasis-text: #ffffff;
+    --border-color: #586e75;
+    --button-background: #657b83;
+    --range-track-color: #586e75;
+    --range-thumb-color: #93a1a1;
+    --qbutton: #8b6445;
+    --toast-header-bg: #002b36cc;
+    --toast-body-bg: #002b36cc;
+}
+body {
+    scrollbar-color: #586e75 #002b36;
+}
