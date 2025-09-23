@@ -36,12 +36,22 @@ MIT License - Created by [morhetz](https://github.com/morhetz) | Palette for the
 
 </details>
 
+### Solarized | Dark
+MIT License - Created by [altercation](https://github.com/altercation) | Made as a counterpart to the Solarized Light theme in core.
+
+<details>
+<summary>View screenshots</summary>
+
+**Solarized Dark**
+<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/eafb5546-10bb-4873-91c1-da6e66beaa8d" />
+
+</details>
+
 </details>
 
 ## Themes to Add  
 * Nord [MIT] - [link1](https://www.nordtheme.com/docs/colors-and-palettes), [link2](https://github.com/nordtheme/nord)
 * Rosé Pine [MIT] - [link1](https://rosepinetheme.com/palette/ingredients/), [link2](https://github.com/rose-pine/rose-pine-theme)
-* Solarized (Dark, specifically, since light is already in core) [MIT] - [link1](https://ethanschoonover.com/solarized/), [link2](https://github.com/altercation/solarized)
 
 __Contenders:__
 * Rainglow (Gloom Contrast, Kiwi, Piggy, and Earthsong) [MIT] - [link1](https://github.com/rainglow/vscode)
