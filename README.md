@@ -3,7 +3,7 @@
 > This extension is in very active development, and will currently not work properly due to many empty theme files. Please wait until this notice is gone before cloning it into your extensions folder.
 > The themes listed below (and especially those found in the Assets folder) are just what I have planned. I cannot guarantee that they will be added.
 
-This extension aims to add a variety of high-quality themes to SwarmUI. Currently, it adds a total of `9` themes, with `5` dark-mode themes and `4` light-mode themes.
+This extension aims to add a variety of high-quality themes to SwarmUI. Currently, it adds a total of `12` themes, with `7` dark-mode themes and `5` light-mode themes.
 
 Are you the creator of a color palette that I have ported to this extension, and you want me to remove it? Create an issue with the same GitHub account you used to publish said color palette to GitHub. I am usually pretty quick at reading issues, so it will likely not take long for it to be removed.
 
@@ -66,12 +66,26 @@ MIT License - Created by [Sven Greb](https://github.com/svengreb)
 
 </details>
 
+## Rosé Pine | Light & Dark
+MIT License - Created by [Rosé Pine](https://github.com/rose-pine) | Soho vibes for SwarmUI
+
+<details>
+<summary>View screenshots</summary>
+
+**Rosé Pine**
+<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/2b4e9e0c-bfd5-43d0-9192-148547488282" />
+
+**Rosé Pine Moon**
+<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/759342bd-f3f5-4421-8949-d42476b50954" />
+
+**Rosé Pine Dawn**
+<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/84588e17-9250-43db-928f-bd9e250530be" />
+
 </details>
 
-## Themes to Add  
-* Rosé Pine [MIT] - [link1](https://rosepinetheme.com/palette/ingredients/), [link2](https://github.com/rose-pine/rose-pine-theme)
+</details>
 
-__Contenders:__
+## Themes to Add When I Have Time
 * Rainglow (Gloom Contrast, Kiwi, Piggy, and Earthsong) [MIT] - [link1](https://github.com/rainglow/vscode)
 * Sonokai [MIT] - [link1](https://github.com/sainnhe/sonokai)
 * Tokyo Night [MIT] - [link1](https://github.com/tokyo-night/tokyo-night-vscode-theme)
