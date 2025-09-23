@@ -23,7 +23,7 @@
 
     --danger-button-border: #928374;
     --danger-button-foreground-hover: #ebdbb2;
-    --danger-button-foreground: #32302f;
+    --danger-button-foreground: #928374;
     --danger-button-background-hover: color-mix(in srgb, #cc241d 70%, black);
     --danger-button-background: #cc241d;
 
