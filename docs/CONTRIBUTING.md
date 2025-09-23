@@ -10,10 +10,10 @@ So, you're not satisfied with the existing themes, huh? Well no problem, I will 
 
 When creating a new theme, do the following:
 1. Add a new `Program.Web.RegisterTheme` line to `MoreThemes.cs`.  
-    The first parameter is the theme's ID, which should in most cases match the filename you give the CSS file.  
-    The second parameter is the user-facing name for the theme. "(MoreThemes)" should always be added to the end of the theme name.  
-    The third parameter should look like the following: `["css/themes/modern.css", "/ExtensionFile/MoreThemes/Assets/<filename>"]`, where "\<filename\>" is the themes filename (followed by ".css"). Themes not using `modern.css` will not be accepted.  
-    The fourth and last parameter is a bool (true/false) for if the theme is a dark-mode theme. It should be `true` for dark themes, and `false` for light themes.
+    - The first parameter is the theme's ID, which should in most cases match the filename you give the CSS file.  
+    - The second parameter is the user-facing name for the theme. "(MoreThemes)" should always be added to the end of the theme name.  
+    - The third parameter should look like the following: `["css/themes/modern.css", "/ExtensionFile/MoreThemes/Assets/<filename>"]`, where "\<filename\>" is the themes filename (followed by ".css"). Themes not using `modern.css` will not be accepted.  
+    - The fourth and last parameter is a bool (true/false) for if the theme is a dark-mode theme. It should be `true` for dark themes, and `false` for light themes.
 
 2. Add a new `OtherAssets.Add` line to `MoreThemes.cs`. Just copy one of the existing ones and replace the filename with the filename for your new theme.
 
