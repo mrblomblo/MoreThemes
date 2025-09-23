@@ -1,5 +1,7 @@
 # MoreThemes
-This extension aims to add a variety of high-quality themes to SwarmUI. Currently, it adds a total of `12` themes, with `7` dark-mode themes and `5` light-mode themes.
+<img width="1920" height="966" alt="MoreThemes" src="https://github.com/user-attachments/assets/af84972f-cc34-4d9a-873c-9dc7c9111b59" />
+
+This extension aims to add a variety of high-quality themes to SwarmUI. Currently, it adds a total of `12` themes, with `7` being dark-mode and `5` light-mode.
 
 Are you the creator of a color palette that I have ported to this extension, and you want me to remove it? Create an issue with the same GitHub account you used to publish said color palette to GitHub. I am usually pretty quick at reading issues, so it will likely not take long for it to be removed.
 
