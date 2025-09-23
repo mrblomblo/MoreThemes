@@ -1,8 +1,11 @@
+# MoreThemes
 > [!WARNING]
-> This extension is in very active development, and will currently not work properly. Please wait until this notice is gone before cloning it into your extensions folder.
+> This extension is in very active development, and will currently not work properly due to many empty theme files. Please wait until this notice is gone before cloning it into your extensions folder.
 > The themes listed below (and especially those found in the Assets folder) are just what I have planned. I cannot guarantee that they will be added.
 
-## Themes
+This extension aims to add a variety of high-quality themes to SwarmUI. Currently, it adds a total of `7` themes, with `4` dark-mode themes and `3` light-mode themes.
+
+# Themes
 The themes in this extension likely do not fully faithfully follow the original intended way for the colors to be used. Additionally, the dark themes are likely going to be of higher quality.
 
 I have likely never used (or in some cases even seen) a theme before deciding to add it to this extension, so if you are more familiar with a theme and want to help improve it, you are very welcome to do so. Just make sure to read the [contribution guidelines](https://github.com/mrblomblo/MoreThemes/blob/master/docs/CONTRIBUTING.md)!
@@ -10,7 +13,7 @@ I have likely never used (or in some cases even seen) a theme before deciding to
 <details>
 <summary>Expand to view list of all themes</summary>
 
-### gruvbox | Light & Dark
+## gruvbox | Light & Dark
 MIT License - Created by [morhetz](https://github.com/morhetz) | Palette for the themes from the [XFCE4 terminal port](https://github.com/morhetz/gruvbox-contrib/tree/master/xfce4-terminal).
 
 <details>
@@ -36,7 +39,7 @@ MIT License - Created by [morhetz](https://github.com/morhetz) | Palette for the
 
 </details>
 
-### Solarized | Dark
+## Solarized | Dark
 MIT License - Created by [altercation](https://github.com/altercation) | Made as a counterpart to the Solarized Light theme in core.
 
 <details>
@@ -58,7 +61,7 @@ __Contenders:__
 * Sonokai [MIT] - [link1](https://github.com/sainnhe/sonokai)
 * Tokyo Night [MIT] - [link1](https://github.com/tokyo-night/tokyo-night-vscode-theme)
 
-## Installation
+# Installation
 
 ### Manual Install
 1. Turn off SwarmUI (Navigate to the Server tab and press "Shutdown Server")
