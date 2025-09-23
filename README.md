@@ -3,8 +3,9 @@
 > The themes listed below (and especially those found in the Assets folder) are just what I have planned. I cannot guarantee that they will be added.
 
 ## Themes
-The themes in this extension likely do not fully faithfully follow the original intended way for the colors to be used. Additionally, the dark themes are likely going to of higher quality.  
-If you want to help improve any themes, you are very welcome to do so. Just make sure to read the [contribution guidelines](https://github.com/mrblomblo/MoreThemes/blob/master/docs/CONTRIBUTING.md)!
+The themes in this extension likely do not fully faithfully follow the original intended way for the colors to be used. Additionally, the dark themes are likely going to be of higher quality.
+
+I have likely never used (or in some cases even seen) a theme before deciding to add it to this extension, so if you are more familiar with a theme and want to help improve it, you are very welcome to do so. Just make sure to read the [contribution guidelines](https://github.com/mrblomblo/MoreThemes/blob/master/docs/CONTRIBUTING.md)!
 
 <details>
 <summary>Expand to view list of all themes</summary>
