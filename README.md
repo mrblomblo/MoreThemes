@@ -14,7 +14,7 @@ __Contenders:__
 * Sonokai [MIT] - [link1](https://github.com/sainnhe/sonokai)
 * Tokyo Night [MIT] - [link1](https://github.com/tokyo-night/tokyo-night-vscode-theme)
 
-## installation
+## Installation
 
 ### Manual Install
 1. Turn off SwarmUI (Navigate to the Server tab and press "Shutdown Server")
