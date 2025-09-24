@@ -6,7 +6,7 @@ This extension aims to add a variety of high-quality themes to SwarmUI. Currentl
 Are you the creator of a color palette that I have ported to this extension, and you want me to remove it? Create an issue with the same GitHub account you used to publish said color palette to GitHub. I am usually pretty quick at reading issues, so it will likely not take long for it to be removed.
 
 # Themes
-The themes in this extension likely do not fully faithfully follow the original intended way for the colors to be used. Additionally, the dark themes are likely going to be of higher quality.
+The themes in this extension may not faithfully follow the original intended way for the colors to be used. Additionally, the dark themes are likely going to be of higher quality.
 
 I have likely never used (or in some cases even seen) a theme before deciding to add it to this extension, so if you are more familiar with a theme and want to help improve it, you are very welcome to do so. Just make sure to read the [contribution guidelines](https://github.com/mrblomblo/MoreThemes/blob/master/docs/CONTRIBUTING.md)!
 
