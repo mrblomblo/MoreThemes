@@ -1,5 +1,5 @@
 # MoreThemes
-<img width="1920" height="966" alt="MoreThemes" src="https://github.com/user-attachments/assets/af84972f-cc34-4d9a-873c-9dc7c9111b59" />
+<img width="4096" height="2078" alt="MoreThemes Banner" src="https://github.com/user-attachments/assets/0eb71634-a9f4-4ef3-82a4-771b2d5d3643" />
 
 This extension aims to add a variety of high-quality themes to SwarmUI. Currently, it adds a total of `12` themes, with `7` being dark-mode and `5` light-mode. Furthermore, it expands upon the existing Catppuccin themes, adding a fancy background image!
 
@@ -23,22 +23,22 @@ MIT License - Created by [morhetz](https://github.com/morhetz) | Palette for the
 <summary>View screenshots</summary>
   
 **gruvbox dark (hard)**
-<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/d484ae4e-a334-4a02-8e39-294888ef7d2d" />
+<img width="4096" height="2078" alt="gruvbox_dark_hard" src="https://github.com/user-attachments/assets/034c40a9-45c5-4914-a44d-deb2a90257d3" />
 
 **gruvbox dark**
-<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/2543d91f-cd23-4f75-b06c-6d19f7dd3d0a" />
+<img width="4096" height="2078" alt="gruvbox_dark" src="https://github.com/user-attachments/assets/768b4c45-42e8-4b7f-bd74-363caead858d" />
 
 **gruvbox dark (soft)**
-<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/e8d1d02c-c9af-42d7-9c83-bb5ec074f96a" />
+<img width="4096" height="2078" alt="gruvbox_dark_soft" src="https://github.com/user-attachments/assets/9e409add-a32d-46e9-a1d0-91b675161278" />
 
 **gruvbox light (hard)**
-<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/8b36470f-401a-4aba-bf0d-c6a518498857" />
+<img width="4096" height="2078" alt="gruvbox_light_hard" src="https://github.com/user-attachments/assets/375083e1-4e47-4441-90b7-96bbbf241805" />
 
 **gruvbox light**
-<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/d18d1900-f3d4-4b80-9689-c79e4dac9b7c" />
+<img width="4096" height="2078" alt="gruvbox_light" src="https://github.com/user-attachments/assets/2fbe30ef-c2cf-4232-9bf5-bcbc68ba64a3" />
 
 **gruvbox light (soft)**
-<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/e18e79e1-b59f-4026-bdde-f9697ae2bf24" />
+<img width="4096" height="2078" alt="gruvbox_light_soft" src="https://github.com/user-attachments/assets/7dcbe9d0-9ce9-4ed1-a0b0-7a5df38613c3" />
 
 </details>
 
@@ -49,7 +49,7 @@ MIT License - Created by [altercation](https://github.com/altercation) | Made as
 <summary>View screenshots</summary>
 
 **Solarized Dark**
-<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/eafb5546-10bb-4873-91c1-da6e66beaa8d" />
+<img width="4096" height="2078" alt="solarized_dark" src="https://github.com/user-attachments/assets/5fbb4c17-0192-4189-aa91-e37423a101d6" />
 
 </details>
 
@@ -60,10 +60,10 @@ MIT License - Created by [Sven Greb](https://github.com/svengreb)
 <summary>View screenshots</summary>
 
 **Nord Polar Night**
-<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/f55de2f6-2106-42e0-beaa-9650e3e262d1" />
+<img width="4096" height="2078" alt="nord_polar_night" src="https://github.com/user-attachments/assets/fa7c9cdf-bf8e-4454-bc24-c276e07c4bc3" />
 
 **Nord Snow Storm**
-<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/5bedd1d6-1700-4031-9a90-953f452688cd" />
+<img width="4096" height="2078" alt="nord_snow_storm" src="https://github.com/user-attachments/assets/a4877d2e-e6fa-4680-b0fa-c179adc4bc63" />
 
 </details>
 
@@ -74,13 +74,13 @@ MIT License - Created by [mvllow](https://github.com/mvllow) | Soho vibes for Sw
 <summary>View screenshots</summary>
 
 **Rosé Pine**
-<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/2b4e9e0c-bfd5-43d0-9192-148547488282" />
+<img width="4096" height="2078" alt="rose_pine" src="https://github.com/user-attachments/assets/bdec9521-2a31-44be-8e7c-18b2e1191e69" />
 
 **Rosé Pine Moon**
-<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/759342bd-f3f5-4421-8949-d42476b50954" />
+<img width="4096" height="2078" alt="rose_pine_moon" src="https://github.com/user-attachments/assets/86d6a8a4-711f-44c4-8aab-4938346631f4" />
 
 **Rosé Pine Dawn**
-<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/84588e17-9250-43db-928f-bd9e250530be" />
+<img width="4096" height="2078" alt="rose_pine_dawn" src="https://github.com/user-attachments/assets/409953eb-cf89-4b93-8f40-76820ee6e9a4" />
 
 </details>
 
@@ -90,19 +90,17 @@ MIT License - Background image uploaded by [pocco81](https://github.com/pocco81)
 <details>
 <summary>View screenshots</summary>
 
-__(TODO: Replace screenshots)__
-
 **Catppuccin Mocha [Fancy]**
-<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/b224fb78-d9d6-4e75-94f1-82d8923398b4" />
+<img width="4096" height="2078" alt="ctp_mocha_fancy" src="https://github.com/user-attachments/assets/db6ba4b8-bc4e-42a8-bdec-ecf30173d4d8" />
 
 **Catppuccin Macchiato [Fancy]**
-<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/83a3543c-b81a-4c23-a641-a3d384164dd1" />
+<img width="4096" height="2078" alt="ctp_macchiato_fancy" src="https://github.com/user-attachments/assets/b5d8961b-df74-4fb3-8f19-ff133909fd5c" />
 
 **Catppuccin Frappé [Fancy]**
-<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/af998261-90c6-4d55-bbb0-eb9672a0e6c0" />
+<img width="4096" height="2078" alt="ctp_frappe_fancy" src="https://github.com/user-attachments/assets/24ef4e01-81cc-4aab-9910-5f9af5a0e1b0" />
 
 **Catppuccin Latte [Fancy]**
-<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/fd8cd3c8-b250-4f6e-9091-f0e0c017f872" />
+<img width="4096" height="2078" alt="ctp_latte_fancy" src="https://github.com/user-attachments/assets/bb7d7263-99ee-417a-8ebc-bf91264aea81" />
 
 </details>
 
