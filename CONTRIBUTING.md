@@ -24,7 +24,7 @@ When creating a new theme, do the following:
 
 After that, you should decide if you want to create a more in-depth theme that themes more of SwarmUI, or if you want to create a theme that themes most portions, but isn't as in-depth. It's basically like a fill-in-the-blanks.
 
-You can follow these templates:
+You should follow one of these templates:
 
 <details>
 <summary>In-depth theming template</summary>
@@ -153,6 +153,18 @@ From [Modern Dark](https://github.com/mcmonkeyprojects/SwarmUI/blob/master/src/w
     --button-background: ;
     --range-track-color: ;
     --range-thumb-color: ;
+}
+```
+
+Since this template only themes what I would call the bare minimum, you are free to add more things to it. Just be sure to have a newline separating the vars from the template and the vars you've added, like the following:
+
+```css
+:root {
+    --range-thumb-color: ; /* last var from the template */
+
+    --your-var-here: ;
+    --your-other-var-here: ;
+    /* et cetera */
 }
 ```
 
