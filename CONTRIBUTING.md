@@ -29,97 +29,97 @@ You can follow these templates:
 <details>
 <summary>In-depth theming template</summary>
 
-```
+```css
 :root {
-    --background:
-    --background-soft:
-    --background-gray:
-    --background-panel:
-    --background-panel-subtle:
+    --background: ;
+    --background-soft: ;
+    --background-gray: ;
+    --background-panel: ;
+    --background-panel-subtle: ;
 
-    --background-danger:
-    --background-gray-danger:
+    --background-danger: ;
+    --background-gray-danger: ;
 
-    --text:
-    --text-soft:
-    --text-strong:
+    --text: ;
+    --text-soft: ;
+    --text-strong: ;
 
-    --button-text:
-    --button-foreground-hover:
-    --button-foreground-disabled:
-    --button-background:
-    --button-background-disabled:
-    --button-primary-text-color:
-    --button-border:
-    --basic-button-bg-color-disabled:
+    --button-text: ;
+    --button-foreground-hover: ;
+    --button-foreground-disabled: ;
+    --button-background: ;
+    --button-background-disabled: ;
+    --button-primary-text-color: ;
+    --button-border: ;
+    --basic-button-bg-color-disabled: ;
 
-    --danger-button-border:
-    --danger-button-foreground-hover:
-    --danger-button-foreground:
-    --danger-button-background-hover:
-    --danger-button-background:
+    --danger-button-border: ;
+    --danger-button-foreground-hover: ;
+    --danger-button-foreground: ;
+    --danger-button-background-hover: ;
+    --danger-button-background: ;
 
-    --emphasis:
-    --emphasis-soft:
-    --emphasis-text:
+    --emphasis: ;
+    --emphasis-soft: ;
+    --emphasis-text: ;
 
-    --border-color:
-    --light-border:
+    --border-color: ;
+    --light-border: ;
 
-    --status-bar-text-color:
-    --status-bar-warn-color-start-end:
-    --status-bar-warn-color-middle:
-    --status-bar-error-color-start-end:
-    --status-bar-error-color-middle:
-    --status-bar-soft-color:
+    --status-bar-text-color: ;
+    --status-bar-warn-color-start-end: ;
+    --status-bar-warn-color-middle: ;
+    --status-bar-error-color-start-end: ;
+    --status-bar-error-color-middle: ;
+    --status-bar-soft-color: ;
 
-    --backend-errored-border-color:
-    --backend-disabled-border-color:
-    --backend-running-border-color:
-    --backend-idle-border-color:
-    --backend-loading-border-color:
-    --backend-waiting-border-color:
+    --backend-errored-border-color: ;
+    --backend-disabled-border-color: ;
+    --backend-running-border-color: ;
+    --backend-idle-border-color: ;
+    --backend-loading-border-color: ;
+    --backend-waiting-border-color: ;
 
-    --backend-errored:
-    --backend-disabled:
-    --backend-running:
-    --backend-idle:
-    --backend-loading:
-    --backend-waiting:
+    --backend-errored: ;
+    --backend-disabled: ;
+    --backend-running: ;
+    --backend-idle: ;
+    --backend-loading: ;
+    --backend-waiting: ;
 
-    --range-track-background:
-    --range-track-color:
-    --range-thumb-color:
-    --slider-toggle-background:
-    --slider-toggle-thumb-color:
-    --toggle-background:
-    --toggle-thumb-active:
-    --toggle-thumb-color:
+    --range-track-background: ;
+    --range-track-color: ;
+    --range-thumb-color: ;
+    --slider-toggle-background: ;
+    --slider-toggle-thumb-color: ;
+    --toggle-background: ;
+    --toggle-thumb-active: ;
+    --toggle-thumb-color: ;
 
-    --model-img-border-color-hover:
-    --model-block-menu-button-border-color-hover:
-    --model-block-menu-button-color-hover:
+    --model-img-border-color-hover: ;
+    --model-block-menu-button-border-color-hover: ;
+    --model-block-menu-button-color-hover: ;
 
-    --popup-front:
-    --notice-pop:
-    --toast-header:
-    --toast-body:
+    --popup-front: ;
+    --notice-pop: ;
+    --toast-header: ;
+    --toast-body: ;
 
-    --batch-0:
-    --batch-1:
+    --batch-0: ;
+    --batch-1: ;
 
-    --red:
-    --green:
-    --yellow:
-    --white:
-    --black:
-    --star:
-    --gray:
-    --darkgray:
+    --red: ;
+    --green: ;
+    --yellow: ;
+    --white: ;
+    --black: ;
+    --star: ;
+    --gray: ;
+    --darkgray: ;
 
-    --transparentdarkred:
-    --scrollbar:
-    --shadow:
+    --transparentdarkred: ;
+    --scrollbar: ;
+    --shadow: ;
 }
 ```
 
@@ -130,29 +130,29 @@ You can follow these templates:
 
 From [Modern Dark](https://github.com/mcmonkeyprojects/SwarmUI/blob/master/src/wwwroot/css/themes/modern_dark.css)
 
-```
+```css
 :root {
-    --background-soft:
-    --background-gray:
-    --background-gray-danger:
-    --shadow:
-    --light-border:
-    --popup-front:
-    --button-foreground-disabled:
-    --text-soft:
-    --background:
-    --text:
-    --text-strong:
-    --emphasis:
-    --emphasis-soft:
-    --button-text:
-    --background-panel:
-    --background-panel-subtle:
-    --emphasis-text:
-    --border-color:
-    --button-background:
-    --range-track-color:
-    --range-thumb-color:
+    --background-soft: ;
+    --background-gray: ;
+    --background-gray-danger: ;
+    --shadow: ;
+    --light-border: ;
+    --popup-front: ;
+    --button-foreground-disabled: ;
+    --text-soft: ;
+    --background: ;
+    --text: ;
+    --text-strong: ;
+    --emphasis: ;
+    --emphasis-soft: ;
+    --button-text: ;
+    --background-panel: ;
+    --background-panel-subtle: ;
+    --emphasis-text: ;
+    --border-color: ;
+    --button-background: ;
+    --range-track-color: ;
+    --range-thumb-color: ;
 }
 ```
 
