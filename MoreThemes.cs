@@ -24,6 +24,7 @@ public class MoreThemes : Extension
         OtherAssets.Add("Assets/gruvbox_light.css");
         OtherAssets.Add("Assets/gruvbox_light_soft.css");
         OtherAssets.Add("Assets/solarized_dark.css");
+        OtherAssets.Add("Assets/autumn.css");
     }
 
     public override void OnInit()
@@ -45,6 +46,7 @@ public class MoreThemes : Extension
         Program.Web.RegisterTheme(new("gruvbox_light", "gruvbox light (MoreThemes)", ["css/themes/modern.css", "/ExtensionFile/MoreThemes/Assets/gruvbox_light.css"], false));
         Program.Web.RegisterTheme(new("gruvbox_light_soft", "gruvbox light soft (MoreThemes)", ["css/themes/modern.css", "/ExtensionFile/MoreThemes/Assets/gruvbox_light_soft.css"], false));
         Program.Web.RegisterTheme(new("solarized_dark", "Solarized Dark (MoreThemes)", ["css/themes/modern.css", "/ExtensionFile/MoreThemes/Assets/solarized_dark.css"], true));
+        Program.Web.RegisterTheme(new("autumn", "Autumn (MoreThemes)", ["css/themes/modern.css", "/ExtensionFile/MoreThemes/Assets/autumn.css"], true));
 
         Logs.Init("MoreThemes Extension initialized successfully");
     }

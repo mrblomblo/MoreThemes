@@ -1,0 +1,29 @@
+:root {
+    --background-soft: #2a2621;
+    --background-gray: #25241f;
+    --background-gray-danger: #3a2420;
+    --shadow: #453f39;
+    --light-border: #453f39;
+    --popup-front: #fefcfa;
+    --button-foreground-disabled: #b8a898;
+    --text-soft: #b8a898;
+    --background: #1a1815;
+    --text: #ece6d8;
+    --text-strong: #fefcfa;
+    --emphasis: #d4741a;
+    --emphasis-soft: #b8965a;
+    --button-text: #fefcfa;
+    --background-panel: #221f1a;
+    --background-panel-subtle: rgba(255, 245, 230, 0.03);
+    --emphasis-text: var(--button-text);
+    --border-color: #5a4f3f;
+    --button-background: #544735;
+    --range-track-color: #1f1c17;
+    --range-thumb-color: #544735;
+
+    --slider-toggle-background: #fefcfa;
+    --slider-toggle-thumb-color: #544735;
+    --toggle-background: color-mix(in srgb, #544735 75%, #fefcfa);
+    --toggle-thumb-active: #b8965a;
+    --toggle-thumb-color: #544735;
+}
