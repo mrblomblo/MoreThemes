@@ -1,7 +1,7 @@
 # MoreThemes
 <img width="1920" height="966" alt="MoreThemes" src="https://github.com/user-attachments/assets/af84972f-cc34-4d9a-873c-9dc7c9111b59" />
 
-This extension aims to add a variety of high-quality themes to SwarmUI. Currently, it adds a total of `12` themes, with `7` being dark-mode and `5` light-mode.
+This extension aims to add a variety of high-quality themes to SwarmUI. Currently, it adds a total of `12` themes, with `7` being dark-mode and `5` light-mode. Furthermore, it expands upon the existing Catppuccin themes, adding a fancy background image!
 
 Are you the creator of a color palette that I have ported to this extension, and you want me to remove it? Create an issue with the same GitHub account you used to publish said color palette to GitHub. I am usually pretty quick at reading issues, so it will likely not take long for it to be removed.
 
@@ -84,6 +84,28 @@ MIT License - Created by [mvllow](https://github.com/mvllow) | Soho vibes for Sw
 
 </details>
 
+## Catppuccin [Fancy] | Light & Dark
+MIT License - Background image uploaded by [pocco81](https://github.com/pocco81) to a repo made by [zhichaoh](https://github.com/zhichaoh)
+
+<details>
+<summary>View screenshots</summary>
+
+__(TODO: Replace screenshots)__
+
+**Catppuccin Mocha [Fancy]**
+<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/b224fb78-d9d6-4e75-94f1-82d8923398b4" />
+
+**Catppuccin Macchiato [Fancy]**
+<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/83a3543c-b81a-4c23-a641-a3d384164dd1" />
+
+**Catppuccin Frappé [Fancy]**
+<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/af998261-90c6-4d55-bbb0-eb9672a0e6c0" />
+
+**Catppuccin Latte [Fancy]**
+<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/fd8cd3c8-b250-4f6e-9091-f0e0c017f872" />
+
+</details>
+
 ---
 
 </details>
@@ -136,3 +158,7 @@ Licensed under the MIT License - see [LICENSE](https://github.com/nordtheme/nord
 ### Rosé Pine
 Copyright (c) mvllow  
 Licensed under the MIT License - see [LICENSE](https://github.com/rose-pine/rose-pine-palette/blob/main/license) file for details
+
+### Catppuccin Patterns Background Image
+Copyright (c) 2021 Catppuccin  
+Licensed under the MIT License - see [LICENSE](https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/LICENSE) file for details
