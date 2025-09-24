@@ -137,6 +137,7 @@ These are mostly just suggestions, and do not __need__ to be added, but would be
 - [Rainglow](https://github.com/rainglow/vscode) (Gloom Contrast, Kiwi, Piggy, and Earthsong) [MIT]
 - [Sonokai](https://github.com/sainnhe/sonokai) [MIT]
 - [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-theme) [MIT]
+- [Dracula](https://github.com/dracula/dracula-theme) [MIT]
 
 # License
 This extension is licensed under the MIT license. You can view the license in [LICENSE.txt](https://github.com/mrblomblo/MoreThemes/blob/master/docs/LICENSE.txt)
