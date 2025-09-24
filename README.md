@@ -160,6 +160,8 @@ Licensed under the MIT License - see [LICENSE](https://github.com/nordtheme/nord
 Copyright (c) mvllow  
 Licensed under the MIT License - see [LICENSE](https://github.com/rose-pine/rose-pine-palette/blob/main/license) file for details
 
-### Catppuccin Patterns Background Image
+## Licenses for Other Assets
+
+### Catppuccin "Patterns" Background Image
 Copyright (c) 2021 Catppuccin  
 Licensed under the MIT License - see [LICENSE](https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/LICENSE) file for details
