@@ -126,7 +126,7 @@ __(TODO: Replace screenshots)__
 # To-do
 
 ## Important
-- Fix contrast issues with Nord themes
+_(nothing at the moment)_
 
 ## Less Important
 _(nothing at the moment)_
