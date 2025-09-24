@@ -1,6 +1,6 @@
 :root {
     --background: #2e3440;
-    --background-soft: #3b4252;
+    --background-soft: color-mix(in srgb, #3b4252 75%, #4c566a);
     --background-gray: #434c5e;
     --background-panel: #3b4252;
     --background-panel-subtle: color-mix(in srgb, #3b4252 85%, black);
@@ -31,7 +31,7 @@
     --emphasis-soft: color-mix(in srgb, #ebcb8b 80%, #2e3440 20%);
     --emphasis-text: #2e3440;
 
-    --border-color: #434c5e;
+    --border-color: color-mix(in srgb, #434c5e 75%, #eceff4);
     --light-border: #4c566a;
 
     --status-bar-text-color: #eceff4;
@@ -60,9 +60,9 @@
     --range-thumb-color: #d8dee9;
     --slider-toggle-background: #eceff4;
     --slider-toggle-thumb-color: #434c5e;
-    --toggle-background: #4c566a;
-    --toggle-thumb-active: color-mix(in srgb, #ebcb8b 25%, #434c5e);
-    --toggle-thumb-color: #434c5e;
+    --toggle-background: color-mix(in srgb, #4c566a 75%, #eceff4);
+    --toggle-thumb-active: #eceff4;
+    --toggle-thumb-color: #d8dee9;
 
     --model-img-border-color-hover: #88c0d0;
     --model-block-menu-button-border-color-hover: #2e3440;

@@ -1,9 +1,9 @@
 :root {
     --background: #eceff4;
-    --background-soft: #e5e9f0;
+    --background-soft: color-mix(in srgb, #e5e9f0 85%, #4c566a);;
     --background-gray: #d8dee9;
     --background-panel: #e5e9f0;
-    --background-panel-subtle: color-mix(in srgb, #e5e9f0 85%, black);
+    --background-panel-subtle: color-mix(in srgb, #e5e9f0 95%, black);
 
     --background-danger: color-mix(in srgb, #eceff4 95%, #bf616a);
     --background-gray-danger: color-mix(in srgb, #eceff4 90%, #bf616a);
@@ -31,7 +31,7 @@
     --emphasis-soft: color-mix(in srgb, #ebcb8b 80%, #eceff4 20%);
     --emphasis-text: #2e3440;
 
-    --border-color: #d8dee9;
+    --border-color: color-mix(in srgb, #d8dee9 75%, #2e3440);
     --light-border: #e5e9f0;
 
     --status-bar-text-color: #2e3440;
@@ -60,8 +60,8 @@
     --range-thumb-color: #3b4252;
     --slider-toggle-background: #2e3440;
     --slider-toggle-thumb-color: #4c566a;
-    --toggle-background: #e5e9f0;
-    --toggle-thumb-active: color-mix(in srgb, #ebcb8b 25%, #3b4252);
+    --toggle-background: color-mix(in srgb, #e5e9f0 90%, #2e3440);
+    --toggle-thumb-active: #2e3440;
     --toggle-thumb-color: #3b4252;
 
     --model-img-border-color-hover: #88c0d0;
