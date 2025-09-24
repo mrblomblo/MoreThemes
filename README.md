@@ -88,11 +88,6 @@ MIT License - Created by [mvllow](https://github.com/mvllow) | Soho vibes for Sw
 
 </details>
 
-## Themes to Add When I Have Time
-* [Rainglow](https://github.com/rainglow/vscode) (Gloom Contrast, Kiwi, Piggy, and Earthsong) [MIT]
-* [Sonokai](https://github.com/sainnhe/sonokai) [MIT]
-* [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-theme) [MIT]
-
 # Installation
 
 ## Install in SwarmUI *(Recommended)*
@@ -105,6 +100,21 @@ MIT License - Created by [mvllow](https://github.com/mvllow) | Soho vibes for Sw
 2. Open the terminal in the Extensions folder `SwarmUI/src/Extensions/`
 3. Copy and paste the following into the terminal and press enter: `git clone https://github.com/mrblomblo/MoreThemes.git`
 4. Run the dev launch script for your OS. Once it has launched, you can shut it down and run SwarmUI with the regular launch script
+
+# To-do
+
+## Important
+- Fix contrast issues with Nord themes
+
+## Less Important
+_(nothing at the moment)_
+
+## Themes to Add
+These are mostly just suggestions, and do not __need__ to be added, but would be nice to have.
+
+- [Rainglow](https://github.com/rainglow/vscode) (Gloom Contrast, Kiwi, Piggy, and Earthsong) [MIT]
+- [Sonokai](https://github.com/sainnhe/sonokai) [MIT]
+- [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-theme) [MIT]
 
 # License
 This extension is licensed under the MIT license. You can view the license in [LICENSE.txt](https://github.com/mrblomblo/MoreThemes/blob/master/docs/LICENSE.txt)
