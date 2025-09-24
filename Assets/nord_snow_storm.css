@@ -86,5 +86,6 @@
     --darkgray: #d8dee9;
 
     --transparentdarkred: rgba(191, 97, 106, 0.5);
-    --scrollbar: rgba(216, 222, 233 0.5);
+    --scrollbar: rgba(216, 222, 233, 0.5);
+    --shadow: #e5e9f0;
 }

@@ -119,6 +119,7 @@ You can follow these templates:
 
     --transparentdarkred:
     --scrollbar:
+    --shadow:
 }
 ```
 
