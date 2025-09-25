@@ -1,7 +1,8 @@
 # MoreThemes
 <img width="4096" height="2078" alt="MoreThemes Banner" src="https://github.com/user-attachments/assets/0eb71634-a9f4-4ef3-82a4-771b2d5d3643" />
 
-This extension aims to add a variety of high-quality themes to SwarmUI. Currently, it adds a total of `14` themes, with `9` being dark-mode and `5` light-mode. Furthermore, it expands upon the existing Catppuccin themes, adding a fancy background image!
+This extension adds `14` high-quality themes *(`9` dark-mode and `5` light-mode)* to SwarmUI!  
+Furthermore, it expands upon the existing Catppuccin themes, adding a fancy background image.
 
 Are you the creator of a color palette that I have ported to this extension, and you want me to remove it? Create an issue with the same GitHub account you used to publish said color palette to GitHub. I am usually pretty quick at reading issues, so it will likely not take long for it to be removed.
 
@@ -138,13 +139,13 @@ MIT License - Created by [blomblo](https://github.com/mrblomblo)
 # To-do
 
 ## Important
-_(nothing at the moment)_
+*(nothing at the moment)*
 
 ## Less Important
-- Improve the theme previews (like [this](https://github.com/tkashkin/Adwaita-for-Steam/tree/master?tab=readme-ov-file#color-themes))
+- Improve the theme previews (like [this](https://github.com/tkashkin/Adwaita-for-Steam/tree/master?tab=readme-ov-file#color-themes) maybe)
 
-## Themes to Add
-These are mostly just suggestions, and do not __need__ to be added, but would be nice to have.
+## Themes To Add
+These are mostly just suggestions, and do not **need** to be added, but would be nice to have.
 
 - [Rainglow](https://github.com/rainglow/vscode) (Gloom Contrast, Kiwi, Piggy, and Earthsong) [MIT]
 - [Sonokai](https://github.com/sainnhe/sonokai) [MIT]
