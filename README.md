@@ -1,7 +1,7 @@
 # MoreThemes
 <img width="4096" height="2078" alt="MoreThemes Banner" src="https://github.com/user-attachments/assets/0eb71634-a9f4-4ef3-82a4-771b2d5d3643" />
 
-This extension aims to add a variety of high-quality themes to SwarmUI. Currently, it adds a total of `13` themes, with `8` being dark-mode and `5` light-mode. Furthermore, it expands upon the existing Catppuccin themes, adding a fancy background image!
+This extension aims to add a variety of high-quality themes to SwarmUI. Currently, it adds a total of `14` themes, with `9` being dark-mode and `5` light-mode. Furthermore, it expands upon the existing Catppuccin themes, adding a fancy background image!
 
 Are you the creator of a color palette that I have ported to this extension, and you want me to remove it? Create an issue with the same GitHub account you used to publish said color palette to GitHub. I am usually pretty quick at reading issues, so it will likely not take long for it to be removed.
 
@@ -112,6 +112,9 @@ MIT License - Created by [blomblo](https://github.com/mrblomblo)
 
 **Autumn**
 <img width="4096" height="2078" alt="autumn" src="https://github.com/user-attachments/assets/9dc0c9d6-9fe0-40eb-b5ca-94acec20ffe5" />
+
+**OLED**
+<img width="4096" height="2078" alt="oled" src="https://github.com/user-attachments/assets/c54d0813-343f-414a-81f6-13a359408371" />
 
 </details>
 
