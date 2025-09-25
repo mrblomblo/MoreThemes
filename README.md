@@ -138,7 +138,7 @@ MIT License - Created by [blomblo](https://github.com/mrblomblo)
 _(nothing at the moment)_
 
 ## Less Important
-_(nothing at the moment)_
+- Improve the theme previews (like [this](https://github.com/tkashkin/Adwaita-for-Steam/tree/master?tab=readme-ov-file#color-themes))
 
 ## Themes to Add
 These are mostly just suggestions, and do not __need__ to be added, but would be nice to have.
@@ -147,6 +147,10 @@ These are mostly just suggestions, and do not __need__ to be added, but would be
 - [Sonokai](https://github.com/sainnhe/sonokai) [MIT]
 - [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-theme) [MIT]
 - [Dracula](https://github.com/dracula/dracula-theme) [MIT]
+- [EverForest](https://github.com/sainnhe/everforest) [MIT]
+- [VGUI2](https://github.com/tkashkin/Adwaita-for-Steam/blob/master/adwaita/colorthemes/vgui2/vgui2.css) [repo under MIT, dunno about the color scheme itself]
+- [Vapor](https://github.com/tkashkin/Adwaita-for-Steam/blob/master/adwaita/colorthemes/vapor/vapor.css) [repo under MIT, dunno about the color scheme itself]
+- [Adwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/doc/1.5/named-colors.html) [LGPL-2.1-or-later]
 
 # License
 This extension is licensed under the MIT license. You can view the license in [LICENSE.txt](https://github.com/mrblomblo/MoreThemes/blob/master/docs/LICENSE.txt)
