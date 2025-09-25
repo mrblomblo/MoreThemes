@@ -1,0 +1,92 @@
+:root {
+    --background: #000;
+    --background-soft: #000;
+    --background-gray: #000;
+    --background-panel: #000;
+    --background-panel-subtle: #000;
+    --background-danger: color-mix(in srgb, #000 95%, #f00);
+    --background-gray-danger: color-mix(in srgb, #000 95%, #f00);
+
+    --text: #fff;
+    --text-soft: #ccc;
+    --text-strong: #fff;
+
+    --button-text: #fff;
+    --button-foreground-hover: #000;
+    --button-foreground-disabled: #ccc;
+    --button-background: #222;
+    --button-background-disabled: #151515;
+    --button-primary-text-color: #fff;
+    --button-border: #222;
+    --basic-button-bg-color-disabled: rgba(235, 111, 146, 0.5);
+
+    --danger-button-border: #222;
+    --danger-button-foreground-hover: #000;
+    --danger-button-foreground: #fff;
+    --danger-button-background-hover: #f00;
+    --danger-button-background: #f00;
+
+    --emphasis: #fff;
+    --emphasis-soft: #eee;
+    --emphasis-text: #000;
+
+    --border-color: #222;
+    --light-border: #333;
+
+    --status-bar-text-color: #000;
+    --status-bar-warn-color-start-end: #ff0;
+    --status-bar-warn-color-middle: color-mix(in srgb, #ff0 75%, black);
+    --status-bar-error-color-start-end: #f00;
+    --status-bar-error-color-middle: color-mix(in srgb, #f00 75%, black);
+    --status-bar-soft-color: #ff0;
+
+    --backend-errored-border-color: #f00;
+    --backend-disabled-border-color: #ff0;
+    --backend-running-border-color: #0f0;
+    --backend-idle-border-color: color-mix(in srgb, #0f0 30%, #0ff);
+    --backend-loading-border-color: color-mix(in srgb, #0f0 60%, #000);
+    --backend-waiting-border-color: color-mix(in srgb, #0f0 60%, #000);
+
+    --backend-errored: #f00;
+    --backend-disabled: #ff0;
+    --backend-running: #0f0;
+    --backend-idle: color-mix(in srgb, #0f0 75%, white);
+    --backend-loading: color-mix(in srgb, #0f0 75%, black);
+    --backend-waiting: color-mix(in srgb, #0f0 75%, black);
+
+    --range-track-background: #222;
+    --range-track-color: #222;
+    --range-thumb-color: #666;
+    --slider-toggle-background: #222;
+    --slider-toggle-thumb-color: #666;
+    --toggle-background: #222;
+    --toggle-thumb-active: #888;
+    --toggle-thumb-color: #666;
+
+    --model-img-border-color-hover: #fff;
+    --model-block-menu-button-border-color-hover: #000;
+    --model-block-menu-button-color-hover: #fff;
+
+    --popup-front: #fff;
+    --notice-pop: #0f0;
+    --toast-header: #090909;
+    --toast-body: #090909;
+
+    --batch-0: rgba(244, 244, 244, 0.3);
+    --batch-1: rgba(244, 244, 244, 0.3);
+
+    --red: #f00;
+    --green: #0f0;
+    --yellow: #ff0;
+    --white: #fff;
+    --black: #000;
+    --star: #ff0;
+    --gray: #222;
+    --darkgray: #111;
+
+    --transparentdarkred: rgba(255, 0, 0, 0.5);
+    --scrollbar: rgba(51,51,51, 0.5);
+    --shadow: #222;
+
+    --noise-image: none;
+}
