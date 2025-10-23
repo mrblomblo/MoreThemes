@@ -123,8 +123,7 @@ MIT License - Created by [tkashkin](https://github.com/tkashkin) | Bringing some
 <summary>View screenshots</summary>
 
 **Vapor**
-
-todo: add screenshot
+<img width="4096" height="2078" alt="vapor" src="https://github.com/user-attachments/assets/71db9dc1-5260-4012-a609-ccecb94ed78a" />
 
 </details>
 
