@@ -12,6 +12,7 @@ public class MoreThemes : Extension
     {
         OtherAssets.Add("Assets/ctp_background.css");
         OtherAssets.Add("Assets/ctp_background.png");
+        OtherAssets.Add("Assets/dracula.css");
         OtherAssets.Add("Assets/nord_polar_night.css");
         OtherAssets.Add("Assets/nord_snow_storm.css");
         OtherAssets.Add("Assets/rose_pine.css");
@@ -35,6 +36,7 @@ public class MoreThemes : Extension
         Program.Web.RegisterTheme(new("ctp_macchiato_bg", "Catppuccin Macchiato [Fancy] (MoreThemes)", ["css/themes/modern.css", "/ExtensionFile/MoreThemes/Assets/ctp_background.css", "css/themes/ctp_macchiato.css"], true));
         Program.Web.RegisterTheme(new("ctp_frappe_bg", "Catppuccin Frappé [Fancy] (MoreThemes)", ["css/themes/modern.css", "/ExtensionFile/MoreThemes/Assets/ctp_background.css", "css/themes/ctp_frappe.css"], true));
         Program.Web.RegisterTheme(new("ctp_latte_bg", "Catppuccin Latte [Fancy] (MoreThemes)", ["css/themes/modern.css", "/ExtensionFile/MoreThemes/Assets/ctp_background.css", "css/themes/ctp_latte.css"], false));
+        Program.Web.RegisterTheme(new("dracula", "Dracula (MoreThemes)", ["css/themes/modern.css", "/ExtensionFile/MoreThemes/Assets/dracula.css"], true));
         Program.Web.RegisterTheme(new("nord_polar_night", "Nord Polar Night (MoreThemes)", ["css/themes/modern.css", "/ExtensionFile/MoreThemes/Assets/nord_polar_night.css"], true));
         Program.Web.RegisterTheme(new("nord_snow_storm", "Nord Snow Storm (MoreThemes)", ["css/themes/modern.css", "/ExtensionFile/MoreThemes/Assets/nord_snow_storm.css"], false));
         Program.Web.RegisterTheme(new("rose_pine", "Rosé Pine (MoreThemes)", ["css/themes/modern.css", "/ExtensionFile/MoreThemes/Assets/rose_pine.css"], true));

@@ -105,8 +105,20 @@ MIT License - Background image uploaded by [pocco81](https://github.com/pocco81)
 
 </details>
 
+## Dracula | Dark
+MIT License - Created by [Zeno Rocha](https://github.com/zenorocha) | Making the most popular dark theme even more widespread!
+
+<details>
+<summary>View screenshots</summary>
+
+**Dracula**
+
+todo: add screenshot
+
+</details>
+
 ## Blomblo's Customs | Dark
-MIT License - Created by [blomblo](https://github.com/mrblomblo)
+MIT License - Created by [Blomblo](https://github.com/mrblomblo)
 
 <details>
 <summary>View screenshots</summary>
@@ -176,6 +188,10 @@ Licensed under the MIT License - see [LICENSE](https://github.com/nordtheme/nord
 ### Rosé Pine
 Copyright (c) mvllow  
 Licensed under the MIT License - see [LICENSE](https://github.com/rose-pine/rose-pine-palette/blob/main/license) file for details
+
+### Dracula
+Copyright (c) 2023 Dracula Theme
+Licensed under the MIT License - see [LICENSE](https://github.com/dracula/dracula-theme/blob/main/LICENSE) file for details
 
 ### Blomblo's Customs
 Copyright (c) 2025 Blomblo  
