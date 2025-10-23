@@ -1,7 +1,7 @@
 # MoreThemes
 <img width="4096" height="2078" alt="MoreThemes Banner" src="https://github.com/user-attachments/assets/0eb71634-a9f4-4ef3-82a4-771b2d5d3643" />
 
-This extension adds `14` high-quality themes *(`9` dark-mode and `5` light-mode)* to SwarmUI!  
+This extension adds `15` high-quality themes *(`10` dark-mode and `5` light-mode)* to SwarmUI!  
 Furthermore, it expands upon the existing Catppuccin themes, adding a fancy background image.
 
 Are you the creator of a color palette that I have ported to this extension, and you want me to remove it? Create an issue with the same GitHub account you used to publish said color palette to GitHub. I am usually pretty quick at reading issues, so it will likely not take long for it to be removed.
@@ -112,8 +112,7 @@ MIT License - Created by [Zeno Rocha](https://github.com/zenorocha) | Making the
 <summary>View screenshots</summary>
 
 **Dracula**
-
-todo: add screenshot
+<img width="4096" height="2078" alt="dracula" src="https://github.com/user-attachments/assets/ecedef81-a81d-4455-91af-774fc32cbe95" />
 
 </details>
 
