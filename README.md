@@ -1,7 +1,7 @@
 # MoreThemes
 <img width="4096" height="2078" alt="MoreThemes Banner" src="https://github.com/user-attachments/assets/0eb71634-a9f4-4ef3-82a4-771b2d5d3643" />
 
-This extension adds `15` high-quality themes *(`10` dark-mode and `5` light-mode)* to SwarmUI!  
+This extension adds `16` high-quality themes *(`11` dark-mode and `5` light-mode)* to SwarmUI!  
 Furthermore, it expands upon the existing Catppuccin themes, adding a fancy background image.
 
 Are you the creator of a color palette that I have ported to this extension, and you want me to remove it? Create an issue with the same GitHub account you used to publish said color palette to GitHub. I am usually pretty quick at reading issues, so it will likely not take long for it to be removed.
@@ -116,6 +116,18 @@ MIT License - Created by [Zeno Rocha](https://github.com/zenorocha) | Making the
 
 </details>
 
+## Vapor | Dark
+MIT License - Created by [tkashkin](https://github.com/tkashkin) | Bringing some steam to SwarmUI ;)
+
+<details>
+<summary>View screenshots</summary>
+
+**Vapor**
+
+todo: add screenshot
+
+</details>
+
 ## Blomblo's Customs | Dark
 MIT License - Created by [Blomblo](https://github.com/mrblomblo)
 
@@ -161,10 +173,8 @@ These are mostly just suggestions, and do not **need** to be added, but would be
 - [Rainglow](https://github.com/rainglow/vscode) (Gloom Contrast, Kiwi, Piggy, and Earthsong) [MIT]
 - [Sonokai](https://github.com/sainnhe/sonokai) [MIT]
 - [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-theme) [MIT]
-- [Dracula](https://github.com/dracula/dracula-theme) [MIT]
 - [EverForest](https://github.com/sainnhe/everforest) [MIT]
 - [VGUI2](https://github.com/tkashkin/Adwaita-for-Steam/blob/master/adwaita/colorthemes/vgui2/vgui2.css) [repo under MIT, dunno about the color scheme itself]
-- [Vapor](https://github.com/tkashkin/Adwaita-for-Steam/blob/master/adwaita/colorthemes/vapor/vapor.css) [repo under MIT, dunno about the color scheme itself]
 - [Adwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/doc/1.5/named-colors.html) [LGPL-2.1-or-later]
 
 # License
@@ -189,8 +199,12 @@ Copyright (c) mvllow
 Licensed under the MIT License - see [LICENSE](https://github.com/rose-pine/rose-pine-palette/blob/main/license) file for details
 
 ### Dracula
-Copyright (c) 2023 Dracula Theme
+Copyright (c) 2023 Dracula Theme  
 Licensed under the MIT License - see [LICENSE](https://github.com/dracula/dracula-theme/blob/main/LICENSE) file for details
+
+### Vapor
+Copyright (c) 2022 Anatoliy Kashkin  
+Licensed under the MIT License - see [LICENSE](https://github.com/tkashkin/Adwaita-for-Steam/blob/master/LICENSE) file for details  
 
 ### Blomblo's Customs
 Copyright (c) 2025 Blomblo  
