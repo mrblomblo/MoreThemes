@@ -87,4 +87,6 @@
     --transparentdarkred: rgba(192, 28, 40, 0.5);
     --scrollbar: rgba(139, 145, 154, 0.5);
     --shadow: #2e343c;
+
+    --noise-image: none;
 }
