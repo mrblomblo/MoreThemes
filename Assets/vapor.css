@@ -60,14 +60,14 @@
     --slider-toggle-background: #ffffff;
     --slider-toggle-thumb-color: #5c6670;
     --toggle-background: #ffffff;
-    --toggle-thumb-active: color-mix(in srgb, var(--emphasis) 25%, #5c6670);
+    --toggle-thumb-active: #ffffff;
     --toggle-thumb-color: #6e6a86;
 
     --model-img-border-color-hover: #ffffff;
     --model-block-menu-button-border-color-hover: #151c23;
     --model-block-menu-button-color-hover: #ffffff;
 
-    --popup-front: #151c23;
+    --popup-front: #ffffff;
     --notice-pop: #3584e4;
     --toast-header: #2e343c;
     --toast-body: #3a4149;
