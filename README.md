@@ -195,7 +195,7 @@ Licensed under the MIT License - see [LICENSE](https://github.com/nordtheme/nord
 
 ### Rosé Pine
 Copyright (c) mvllow  
-Licensed under the MIT License - see [LICENSE](https://github.com/rose-pine/rose-pine-palette/blob/main/license) file for details
+Licensed under the MIT License - see [LICENSE](https://github.com/rose-pine/rose-pine-palette/blob/main/LICENSE) file for details
 
 ### Dracula
 Copyright (c) 2023 Dracula Theme  
