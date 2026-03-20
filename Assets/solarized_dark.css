@@ -15,7 +15,7 @@
     --emphasis-soft: #c76bbb;
     --button-text: #eee8d5;
     --background-panel: #073642;
-    --background-panel-subtle: rgba(255,255,255,0.05);
+    --background-panel-subtle: rgba(255, 255, 255, 0.05);
     --emphasis-text: #ffffff;
     --border-color: #586e75;
     --button-background: #657b83;
@@ -25,6 +25,7 @@
     --toast-header-bg: #002b36cc;
     --toast-body-bg: #002b36cc;
 }
+
 body {
     scrollbar-color: #586e75 #002b36;
 }

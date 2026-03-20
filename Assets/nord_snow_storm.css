@@ -1,6 +1,6 @@
 :root {
     --background: #eceff4;
-    --background-soft: color-mix(in srgb, #e5e9f0 85%, #4c566a);;
+    --background-soft: color-mix(in srgb, #e5e9f0 85%, #4c566a);
     --background-gray: #d8dee9;
     --background-panel: #e5e9f0;
     --background-panel-subtle: color-mix(in srgb, #e5e9f0 95%, black);
