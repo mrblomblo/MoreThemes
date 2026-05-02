@@ -177,7 +177,7 @@ These are mostly just suggestions, and do not **need** to be added, but would be
 - [Adwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/doc/1.5/named-colors.html) [LGPL-2.1-or-later]
 
 # License
-This extension is licensed under the MIT license. You can view the license in [LICENSE.txt](https://github.com/mrblomblo/MoreThemes/blob/master/docs/LICENSE.txt)
+This extension is licensed under the MIT license. You can view the license in [LICENSE.txt](https://github.com/mrblomblo/MoreThemes/blob/master/LICENSE.txt)
 
 ## Themes' Licenses
 
